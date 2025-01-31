@@ -1,6 +1,5 @@
  # This front end Application  for monitoring IoT device Back end node js.
 
-![WhatsApp Image 2024-01-05 at 8 36 38 AM](https://github.com/Rajkumarkanthasamy/IoT-Center/assets/143165337/8dd1531f-1e43-4917-9585-b48ac730fdbc)
 ![Screenshot (149)](https://github.com/Rajkumarkanthasamy/IoT-Center/assets/143165337/b54a60ad-2ca9-4d56-88d4-077f23fa04ff)
 ![Screenshot (153)](https://github.com/Rajkumarkanthasamy/IoT-Center/assets/143165337/032e3c87-a7dc-46b9-a776-2b8ecb1957e4)
 ![Screenshot (154)](https://github.com/Rajkumarkanthasamy/IoT-Center/assets/143165337/d99aeb0d-7c10-403b-8206-d2fc995758b7)
